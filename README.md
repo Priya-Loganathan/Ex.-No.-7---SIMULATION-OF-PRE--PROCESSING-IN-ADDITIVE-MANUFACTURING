@@ -45,8 +45,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: DELLI PRIYA L
+### Register Number: 212222230029
+
+![ex7 empd](https://github.com/Priya-Loganathan/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/121166075/fadd516f-8409-4351-a39d-76bbd0958ce0)
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
